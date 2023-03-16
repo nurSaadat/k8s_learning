@@ -1,5 +1,5 @@
 {
-  "name": "k8s-web-hello",
+  "name": "k8s-web-to-nginx",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
